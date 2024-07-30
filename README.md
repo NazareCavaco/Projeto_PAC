@@ -6,4 +6,4 @@
 Autores:
 ###### Afonso Pamplona nº25011
 ###### Nazaré Cavaco nº25251, nazacavaco@gmail.com
-###### ![logo]([https://github.com/NazareCavaco/Projeto_PAC/blob/main/logo.png])
+###### ![logo]([https://github.com/NazareCavaco/Projeto_PAC/blob/main/logo.png?raw=true])
